@@ -5,48 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2730a519-50ee-4f43-a15f-93251f8ce092" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/cursoemvídeo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex021.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex034.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estruturas de Controle/ex036.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex002.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex003.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex004.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex005.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex006.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex007.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex008.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex009.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex010.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex011.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex012.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex013.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex014.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex015.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex016.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex017.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex018.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex019.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex020.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex021.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex021.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex022.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex023.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex024.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex025.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex026.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex027.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex028.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex029.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex030.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex031.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex032.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex033.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex034.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex035.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,52 +69,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.ex001.executor": "Run",
-    "Python.ex002.executor": "Run",
-    "Python.ex003.executor": "Run",
-    "Python.ex004.executor": "Run",
-    "Python.ex005.executor": "Run",
-    "Python.ex006.executor": "Run",
-    "Python.ex007.executor": "Run",
-    "Python.ex008.executor": "Run",
-    "Python.ex009.executor": "Run",
-    "Python.ex010.executor": "Run",
-    "Python.ex011.executor": "Run",
-    "Python.ex012.executor": "Run",
-    "Python.ex013.executor": "Run",
-    "Python.ex014.executor": "Run",
-    "Python.ex015.executor": "Run",
-    "Python.ex016.executor": "Run",
-    "Python.ex017.executor": "Run",
-    "Python.ex018.executor": "Run",
-    "Python.ex019.executor": "Run",
-    "Python.ex020.executor": "Run",
-    "Python.ex021.executor": "Run",
-    "Python.ex022.executor": "Run",
-    "Python.ex023.executor": "Run",
-    "Python.ex024.executor": "Run",
-    "Python.ex025.executor": "Run",
-    "Python.ex026.executor": "Run",
-    "Python.ex027.executor": "Run",
-    "Python.ex029.executor": "Run",
-    "Python.ex030.executor": "Run",
-    "Python.ex031.executor": "Run",
-    "Python.ex032.executor": "Run",
-    "Python.ex033.executor": "Run",
-    "Python.ex034.executor": "Run",
-    "Python.ex035.executor": "Run",
-    "Python.exo28.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Gabr3/PycharmProjects/cursoemvídeo",
-    "settings.editor.selected.configurable": "proofread"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex023.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex026.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex027.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex029.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex030.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex031.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex032.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex033.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex034.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex035.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exo28.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gabr3/PycharmProjects/cursoemvídeo/Fundamentos&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Gabr3\PycharmProjects\cursoemvídeo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gabr3\PycharmProjects\cursoemvídeo\Fundamentos" />
     </key>
   </component>
   <component name="SharedIndexes">
